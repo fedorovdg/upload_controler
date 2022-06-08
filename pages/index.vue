@@ -44,8 +44,6 @@
 
 <script>
 
-import {queueRequest} from "../components/article/helpers/Queue";
-import {Request} from "../api/server";
 import Modal from "@/components/shared/Modal"
 import LeftMenu from "@/components/shared/LeftMenu"
 import Object from "@/components/shared/Object"
